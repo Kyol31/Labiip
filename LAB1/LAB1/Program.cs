@@ -6,7 +6,12 @@ namespace LAB1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a = 3;
+            int b = 2;
+            int c = b * a;
+            Console.WriteLine(c);
+            
+
         }
     }
 }
